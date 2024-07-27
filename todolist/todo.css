@@ -1,0 +1,43 @@
+.user-input{
+  width: 85%;
+ margin-left: 6%;
+ margin-right: 6%;
+ border-radius: 5px;
+ margin-top: 10px;
+ border-style: solid;
+ border-width: 2px;
+ padding: 10px;
+}
+
+.task{
+  font-weight:400;
+  font-size: 35px;
+}
+.task-1{
+  font-size: 35px;
+}
+.checkbox{
+ height: 20px;
+ width: 20px;
+ margin-top: 10px;
+}
+.label-container{
+   background-color: aqua;
+   border-radius: 10px;
+   width: 100%;
+   margin-left: 10px;
+   padding: 10px;
+   border-width: 10px;
+   border-color: rgb(54, 150, 165);
+   border-style: solid;
+   border-right: none;
+   border-top:none;
+   border-bottom: none;
+}
+.label-element{
+  width: 100%;
+  text-align: right;
+}
+.line{
+  text-decoration: line-through;
+}
